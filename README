@@ -1,0 +1,1 @@
+Code was written in March 2017. It's my experiment with variable length arrays in C. AFAIK it was faster than MinGW std::stack or other STL container in debug but optimized STL C++ was faster. I was slightly disappointed. Also Windows-specific code was removed.
